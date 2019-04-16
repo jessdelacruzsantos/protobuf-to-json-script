@@ -1,0 +1,22 @@
+{
+  "name": "protobuf-to-json-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessdelacruzsantos/protobuf-to-json-script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessdelacruzsantos/protobuf-to-json-script/issues"
+  },
+  "homepage": "https://github.com/jessdelacruzsantos/protobuf-to-json-script#readme",
+  "dependencies": {
+    "protobuf-jsonschema": "^1.1.1"
+  }
+}
